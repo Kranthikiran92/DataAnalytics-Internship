@@ -1,9 +1,9 @@
 📊 Retail Sales & Profitability Analysis
-📌 Project Overview
+-->📌 Project Overview
 
 This project focuses on analyzing retail sales data using the Superstore Dataset to derive insights related to sales performance, customer behavior, and profitability.
 
-🎯 Objectives
+-->🎯 Objectives
 
 Perform data cleaning and preprocessing
 
@@ -15,7 +15,7 @@ Apply statistical testing
 
 Generate actionable business insights
 
-🛠 Tools & Technologies
+-->🛠 Tools & Technologies
 
 Python (Pandas, NumPy)
 
@@ -25,7 +25,7 @@ Power BI (Dashboarding)
 
 Statistical Analysis (T-test)
 
-📂 Project Structure
+-->📂 Project Structure
 
 Task 1: Data Cleaning & Wrangling
 
@@ -35,7 +35,7 @@ Task 3: Dashboard Development
 
 Task 4: Data Storytelling & Statistical Validation
 
-📈 Key Insights
+-->📈 Key Insights
 
 High discounts significantly reduce profit margins
 
@@ -45,15 +45,15 @@ Some regions show high sales but low profitability
 
 Customer segments have different purchasing behaviors
 
-📊 Dashboard
+-->📊 Dashboard
 
 (Add your Power BI screenshots here)
 
-🔬 Statistical Analysis
+-->🔬 Statistical Analysis
 
 T-statistic: 73.04
 
----->Conclusion
+---->Conclusion:
 
 This project demonstrates how data analytics can help businesses make data-driven decisions to improve profitability and operational efficiency.
 
